@@ -8,7 +8,15 @@ https://www.youtube.com/watch?v=ly5BhGOt2vE
 
 
 
-# personal notes
+# personal notes from the youtube video
+
+## coding tricks
+
+LIST1-99 will list lines in a range
+
+If program crashes ?VAR to see its value at crash time like a debugger.
+
+## integer overflow
 
 11:04 in video, 
 
